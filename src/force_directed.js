@@ -771,7 +771,7 @@ d3.json("json/small.json", function(json) {
             console.log(err)
             // console.log("hello!")
             d3.select("#content").append("p")
-              .html('<font id="source">Source: <a href="http://genealogy.math.ndsu.nodak.edu/" target="_blank">Mathematics Genealogy Project</a>; by <a href="http://freelanceastrophysicist.com/" target="_blank"> Adam Becker</a> and <a href="http://peteraldhous.com/" target="_blank">Peter Aldhous</a>, with design by Kathryn Brazier.</font>');
+              .html('<font id="source">Source: <a href="http://genealogy.math.ndsu.nodak.edu/" target="_blank">Mathematics Genealogy Project</a>; by <a href="http://freelanceastrophysicist.com/" target="_blank"> Adam Becker</a> and <a href="http://peteraldhous.com/" target="_blank">Peter Aldhous</a>, with design by <a href="http://kathrynbrazier.com/" target="_blank">Kathryn Brazier</a>.</font>');
               // $("#source").css("bottom", 0);
               var panel_bottom = $("#panel").offset().top + $("#panel").outerHeight();
               // d3.select("#source").style("top", panel_bottom).style("right", 0)
