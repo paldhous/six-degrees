@@ -1,0 +1,156 @@
+[
+  {
+    "id": "105783",
+    "lastname": "Bohr",
+    "blurb": "<p>Think of an atom. Chances are you're imagining a nucleus with electrons orbiting it like tiny planets. That's <a href=\"http://www.newscientist.com/article/mg21929291.100\">Niels Bohr</a>'s</a> model of the atom, devised in 1913 and honored with a Nobel prize nine years later.</p><p>The Bohr model explained that elements' chemical properties were determined by the number of electrons in their atoms' outer orbits. Bohr proposed that electrons could drop from higher to lower-energy orbits by releasing discrete amounts of energy, which he called quanta.</p><p>This idea is a cornerstone of quantum mechanics, which Bohr helped nurture. Spending time at his institute in Copenhagen, Denmark, became a rite of passage for young physicists learning quantum theory.</p>",
+    "firstname": "Niels",
+    "picture_file": "Niels_Bohr.jpg"
+  },
+  {
+    "id": "70801",
+    "lastname": "Chandrasekhar",
+    "blurb": "<p>Rejection is especially hard to bear when it comes from a mentor. <a href=\"http://www.newscientist.com/article/mg15721225.800\">Subrahmanyan Chandrasekhar</a> suffered that indignity in 1935, when Arthur Eddington <a href=\"http://www.newscientist.com/article/mg18624931.700\">publicly ridiculed the younger man's most famous work</a>, the Chandrasekhar limit, which suggests that white dwarf stars above a certain size must collapse into a neutron star or black hole. Though Eddington maintained his opposition until his death in 1944, history has long since vindicated Chandrasekhar, who went on to share a Nobel prize in 1983.</p><p>Chandrasekhar contributed to many other areas of physics and astrophysics, including work on gravitational waves, black holes and general relativity.</p>",
+    "firstname": "Subrahmanyan",
+    "picture_file": "Chandra.png"
+  },
+  {
+    "id": "126177",
+    "lastname": "Copernicus",
+    "blurb": "<p>He may not have been the first to say that the Earth orbits the sun, but <a href=\"http://www.newscientist.com/article/dn17480\">Nicolaus Copernicus</a> was easily the most influential – his book on the subject, <i>De Revolutionibus Orbium Coelestium</i>, kicked off a <a href=\"http://www.newscientist.com/gallery/scientific-revolutions\">scientific revolution</a>.</p><p>By proposing that Earth was just another of the planets, Copernicus fundamentally altered the way that we look at ourselves. This idea lives on in modern cosmology as the <a href=\"http://www.newscientist.com/article/mg21729061.900\">Copernican principle</a> – the idea that our region of the universe is no different from the rest of the cosmos.</p><p>Copernicus was a true Renaissance man: he worked at various times as a physician, a diplomat and a politician, wrote on classics and economics, and spoke five languages.</p>",
+    "firstname": "Nicolaus",
+    "picture_file": "Nikolaus_Kopernikus.jpg"
+  },
+  {
+    "id": "18524",
+    "lastname": "Dirac",
+    "blurb": "<p>Taciturn yet brilliant, <a href=\"http://www.newscientist.com/article/mg20126905.400\">Paul Dirac</a> was the father of quantum field theory, which describes particles as excited states of an underlying physical field.</p><p>Combining principles of quantum mechanics and special relativity, Dirac in 1928 formulated the equation that bears his name. It governs fields that give rise to the particles known as fermions, such as the electron.</p><p>The Dirac equation <a href=\"http://www.newscientist.com/article/dn17111\">predicted the existence of antimatter</a> and was vindicated with the 1932 discovery of the positron, the electron's antimatter counterpart. We're still waiting for another of his famous predictions – <a href=\"http://www.newscientist.com/article/mg20227071.100\">the mysterious monopole</a> — to be observed.</p><p>Described by Niels Bohr as \"the strangest man\", Dirac's <a href=\"http://www.newscientist.com/article/mg20126905.500\">odd social behavior</a> might today place him on the autism spectrum. Indisputably, though, he was a giant of 20th-century physics.</p>",
+    "firstname": "Paul",
+    "picture_file": "Dirac_4.jpg"
+  },
+  {
+    "id": "53269",
+    "lastname": "Einstein",
+    "blurb": "<p>In his <a href=\"http://www.newscientist.com/article/ mg19926632.400\">annus mirabilis</a>, 1905, <a href=\"http://www.newscientist.com/blogs/culturelab/2010/03/celebrating-the-real-einstein.html\">Albert Einstein</a> published four groundbreaking papers on <a href=\"http://www.newscientist.com/article/mg13718543.900\">special relativity</a>, mass-energy equivalence, Brownian motion and the law of the photoelectric effect – not bad for a humble Swiss patent examiner.</p><p><a href=\"http://www.newscientist.com/special/instant-expert-general-relativity\">General relativity</a>, his crowning achievement, was yet to come. Formulated between 1907 and 1915, it remains the leading theory of gravitation, explaining the attraction between masses through the warping of space and time.</p><p>These ideas were too outlandish for the Nobel committee, which instead gave him the 1921 physics prize for his explanation of the <a href=\"http://www.newscientist.com/article/mg14319392.200\">photoelectric effect</a>. That work helped launch quantum mechanics.</p>",
+    "firstname": "Albert",
+    "picture_file": "einstein-small.jpg"
+  },
+  {
+    "id": "14167",
+    "lastname": "Fermi",
+    "blurb": "<p>One of the few great modern physicists to straddle the line between theory and experiment, <a href=\"http://www.newscientist.com/article/mg18424706.400\">Enrico Fermi</a> is best known as the architect of Chicago Pile-1, the world's first controlled nuclear chain reaction. He also lent his name to <a href=\"http://www.newscientist.com/article/mg21829115.200\">fermions</a>, one of the two classes to which all particles belong: electrons, protons, and neutrons are all fermions.</p><p>Fermi was admired by physicists for his elegantly simple experiments: he estimated the strength of the first nuclear bomb by dropping a few shreds of paper as the shock wave passed. He is also famed for a quick back-of-the-envelope calculation suggesting that <a href=\"http://www.newscientist.com/article/mg17823925.900\">alien life should be very common in the Milky Way</a>, leading him to exclaim: \"Where is everybody?\"</p>",
+    "firstname": "Enrico",
+    "picture_file": "Enrico_Fermi.jpg"
+  },
+  {
+    "id": "91222",
+    "lastname": "Feynman",
+    "blurb": "<p>Physicists admire beautiful theories, and <a href=\"http://www.newscientist.com/article/mg21028065.600\">Richard Feynman</a> gave them a jewel. Quantum electrodynamics (QED), for which Feynman shared the 1965 physics Nobel, describes with exquisite precision how light and matter interact.</p><p>Inspired by Paul Dirac's earlier work on quantum field theory, QED accounts for the behavior of charged particles in their exchange of photons. Feynman also devised a visual shorthand to illustrate the theory – today known as <a href=\"http://www.newscientist.com/article/mg19225761.200\">Feynman diagrams</a>.</p><p><a href=\"http://www.newscientist.com/article/mg21128272.600\">A lover of practical jokes, player of the bongos and passionate popularizer of science</a>, Feynman made physics lucid and fun. His 1959 lecture \"<a href=\"http://www.zyvex.com/nanotech/feynman.html\">Plenty of Room at the Bottom</a>\" was a classic, envisioning the future development of nanotechnology.</p>",
+    "firstname": "Richard",
+    "picture_file": "Richard_Feynman_Nobel.jpg"
+  },
+  {
+    "id": "134975",
+    "lastname": "Galilei",
+    "blurb": "<p>Certainly the father of observational astronomy, and arguably the founder of the modern scientific method, <a href=\"http://www.newscientist.com/article/mg20827856.500\">Galileo Galilei</a> rose to prominence during the Renaissance under the patronage of the Medici family, who ruled the grand duchy of Tuscany in what is now Italy. </p><p>In addition to pioneering work on the geometry of motion and the strength of materials, Galileo discovered the four largest moons of Jupiter and confirmed that Venus, like our moon, has phases that depend on its illumination by the sun. Such observations led him into conflict with the Catholic church. Forced to recant the heretical view that the Earth revolves around the sun, and placed under house arrest, he is rumored to have whispered in defiance: \"And yet, it moves.\"</p><p>The Vatican refused to reconsider Galileo's guilt until 1992, when <a href=\"http://www.newscientist.com/article/mg13618460.600\">he was at last pardoned</a>.</p>",
+    "firstname": "Galileo",
+    "picture_file": "Galileo_Galilei.jpg"
+  },
+  {
+    "id": "22479",
+    "lastname": "Gell-Mann",
+    "blurb": "<p>In 1964, <a href=\"http://www.newscientist.com/article/mg20727705.100\">Murray Gell-Mann</a> was among the first to propose that protons and neutrons, the subatomic particles that compose the nuclei of atoms, are themselves composed of still smaller particles never seen on their own.</p><p> Looking for a name for these ultra-tiny reclusive particles, Gell-Mann took inspiration from James Joyce and <a href=\"http://www.newscientist.com/article/mg21729062.600\">dubbed them \"quarks\"</a>, after a line in his novel <i>Finnegan's Wake</i>.</p><p>After their existence was confirmed, Gell-Mann was awarded the 1969 Nobel physics prize for his theory. His work since then has covered a wide range, from string theory through network theory <a href=\"http://www.newscientist.com/article/dn21028\">to linguistics</a>.</p>",
+    "firstname": "Murray",
+    "picture_file": "Murray_Gell-Mann.jpg"
+  },
+  {
+    "id": "59919",
+    "lastname": "Greene",
+    "blurb": "<p>String theory is hard – even for physicists. So be thankful that one of its leading practitioners is <a href=\"http://www.newscientist.com/article/mg20927986.500\">Brian Greene</a>, </a>who has done more than anyone else to explain to non-specialists how it tackles the biggest challenge in science: unifying gravity with the other forces of nature.</p><p>String theory is a leading candidate in this quest. It considers fundamental particles as one-dimensional vibrating strings, and postulates extra dimensions curled up so that we cannot perceive them.</p><p>If your head is now spinning, read <i>The Elegant Universe</i> to appreciate Greene's skill in putting string theory into plain English. More recently, in <a href=\"http://www.newscientist.com/article/mg21729062.400\"><i>The Hidden Reality</i></a>, Greene has turned his attention to another mind-boggling idea: the multiverse.</p>",
+    "firstname": "Brian",
+    "picture_file": "Brian_Greene.jpg"
+  },
+  {
+    "id": "78459",
+    "lastname": "Hawking",
+    "blurb": "<p>Don't let <a href=\"http://www.newscientist.com/article/mg21328460.500\">Stephen Hawking</a>'s </a>fame, nor his courageous battle with ALS (also known as Lou Gehrig's disease), obscure his scientific credentials. He showed that black holes are not quite as black as they were thought to be. According to general relativity, the gravitational pull of a black hole is so great that even light cannot escape. But in 1974 Hawking showed that quantum effects allow black holes to emit the radiation that bears his name.</p><p>Never afraid to be wrong, Hawking had a playful streak that led him into <a href=\"http://www.newscientist.com/article/mg18324561.700\">numerous scientific wagers</a>, including a $100 bet that <a href=\"http://www.newscientist.com/article/mg14820062.400\">the Higgs boson would never be found</a>. </a></p><p>Hawking was a <a href=\"http://www.newscientist.com/article/mg21528771.600\">genuine celebrity</a>: his popular science book, <i><a href=\"http://www.newscientist.com/article/mg15220574.700\">A Brief History of Time</a></i>, sold some 9 million copies; he appeared in <i>Star Trek: The Next Generation</i> and <i>The Simpsons</i>; his Kevin Bacon number was 3.</p>",
+    "firstname": "Stephen",
+    "picture_file": "Stephen_Hawking.jpg"
+  },
+  {
+    "id": "51469",
+    "lastname": "Heisenberg",
+    "blurb": "<p>Given the 1932 physics Nobel for \"the creation of quantum mechanics\", <a href=\"http://www.newscientist.com/article/mg20126952.500\">Werner Heisenberg</a> was instrumental in devising the field's first complete formulation. His theory, developed in 1925 with Max Born and Pascual Jordan, describes particles using matrices that evolve over time.</p><p>Today, Heisenberg's name is most closely associated with the <a href=\"http://www.newscientist.com/article/mg16121764.600\">uncertainty principle</a>, unveiled in 1927. This tenet of quantum theory asserts a fundamental limit to the precision with which any object's position and momentum can be measured simultaneously.</p><p>During the rise of the Nazis in Germany, Heisenberg was vilified for teaching about the roles played by Jews in the country's science. However, controversy still swirls around his leadership of Germany's failed wartime effort to construct a nuclear bomb.</p>",
+    "firstname": "Werner",
+    "picture_file": "Heisenberg.jpg"
+  },
+  {
+    "id": "35098",
+    "lastname": "Higgs",
+    "blurb": "<p>For <a href=\"http://www.newscientist.com/article/dn22033\">Peter Higgs</a>, July 2012 provided a delicious moment of vindication: CERN, the European particle physics laboratory near Geneva, Switzerland, at last <a href=\"http://www.newscientist.com/article/dn22014\">discovered the Higgs boson</a>, the particle that gives matter its mass. Nobel honours came the following year.</p><p>Nearly 50 years previously, the editors of the journal <i>Physics Letters</i>, based at CERN, had rejected the paper describing the mechanism that bears Higgs's name. They judged it had \"no obvious relevance to physics\" – an event reminiscent of Decca Records' rejection of The Beatles because \"guitar groups are on the way out\".</p><p>The Higgs mechanism remains devilishly difficult to explain other than through flawed analogies. We'll spare you talk of treacle and cocktail parties: in short, the universe is permeated by a field from which particles gain mass according to the strength of their interaction with it. For a deeper analysis, read this<a href=\"http://www.newscientist.com/special/instant-expert-higgs-boson\">special report on the Higgs</a>.</p>",
+    "firstname": "Peter",
+    "picture_file": "Higgs.jpg"
+  },
+  {
+    "id": "110960",
+    "lastname": "Meitner",
+    "blurb": "<p>On the run from the Nazis and exiled to Sweden in the depths of winter, <a href=\"http://www.newscientist.com/article/mg14920204.700\">Lise Meitner</a> unlocked a secret that would change the world: the theory of <a href=\"http://www.newscientist.com/info/in92?full=true\">atomic fission</a>. It was the culmination of years of work on radioactivity with her long-time collaborator, the chemist Otto Hahn. But the Nobel committee awarded its 1944 physics prize to Hahn alone – an egregious failure to recognize a woman's contribution to science.</p><p>In 1997, nearly 30 years after her death, Meitner received an even rarer honor: element 109 on the periodic table was named <a href=\"http://www.newscientist.com/article/mg13418214.900\">meitnerium</a>.</p>",
+    "firstname": "Lise",
+    "picture_file": "Lise_Meitner.jpg"
+  },
+  {
+    "id": "74313",
+    "lastname": "Newton",
+    "blurb": "<p>He gave us the laws of motion, universal gravitation and modern optics. Was <a href=\"http://www.newscientist.com/article/mg21328562.700\">Isaac Newton</a> the most influential physicist of all time? Perhaps <a href=\"http://www.newscientist.com/article/mg18825282.800\">only Einstein is a serious rival</a>.</p><p>Newton's <i><a href=\"http://www.newscientist.com/blogs/shortsharpscience/2012/04/the-fish-that-almost-blew-newt.html\">Principia Mathematica</a></i>, published in 1687, underpins classical mechanics. He built the first reflecting telescope, showed that a prism decomposes white light into the colors of the visible spectrum and still had time to obsess over alchemy.</p><p>In later life, Newton served as president of the British Royal Society and head of the Royal Mint – striking fear into <a href=\"http://www.newscientist.com/article/mg18825282.800\">the counterfeiters he pursued with zeal</a>. They weren't alone in feeling his wrath: Newton used his influence to undermine Gottfried Leibniz, after the two tangled over who invented calculus.</p>",
+    "firstname": "Isaac",
+    "picture_file": "IsaacNewton.jpg"
+  },
+  {
+    "id": "6967",
+    "lastname": "Noether",
+    "blurb": "<p>It has been called the most beautiful result in physics. Noether's theorem shows the deep relationship between conservation laws, like <a href=\"http://www.newscientist.com/article/dn3895\">conservation of momentum</a>, and symmetries in nature. It helped Einstein to better understand his own work in general relativity, and underpins much of modern physics.</p><p>There was much more to <a href=\"http://www.newscientist.com/article/mg21929272.400\">Emmy Noether</a> than the theorem, however. She was a consistently brilliant mathematician who overcame sexism and anti-Semitism all her life. Early in her career, she taught without pay for 10 years because women were blocked from joining the faculties of the elite mathematics institutions where she worked. In 1933, she was forced out of the University of Göttingen, Germany, by Nazi laws barring Jews from university teaching. Noether fled to the US, where she died in 1935.</p>",
+    "firstname": "Emmy",
+    "picture_file": "Noether.jpg"
+  },
+  {
+    "id": "14001",
+    "lastname": "Oppenheimer",
+    "blurb": "<p>\"Now I am become Death, the destroyer of worlds.\" <a href=\"http://www.newscientist.com/blogs/culturelab/2012/11/oppenheimer-the-full-story-of-a-complex-character.html\">J.&nbsp;Robert Oppenheimer</a>'s reaction to the Trinity test, the first detonation of an atomic bomb, was to recall this verse from Hindu scripture.</p><p>Best known for his pivotal work on the <a href=\"http://www.newscientist.com/article/dn22157\">Manhattan project</a>, Oppenheimer's interests ranged widely, from theoretical astrophysics and quantum field theory to Sanskrit, in which language he encountered that legendary quote.</p><p>Oppenheimer's <a href=\"http://www.newscientist.com/article/mg19225772.700\">left-wing sympathies and friendships with Communists</a> led to the revocation of his security clearance in 1954. Political rehabilitation came a decade later with the 1963 Enrico Fermi award, given by President John F. Kennedy.</p>",
+    "firstname": "Julius Robert",
+    "picture_file": "JROppenheimer.jpg"
+  },
+  {
+    "id": "105739",
+    "lastname": "Randall",
+    "blurb": "<p>One of the most influential theoretical physicists working today, <a href=\"http://www.newscientist.com/article/mg21729000.300\">Lisa Randall</a> is best known for her work on the warped geometry of \"<a href=\"http://www.newscientist.com/article/mg17123104.400\">branes</a>\" – which may include our visible four-dimensional universe – and how they relate to the force of gravity. Randall has also worked on new <a href=\"http://www.newscientist.com/article/dn23372\">models of dark matter</a> and theories to explain the rapid expansion of the very early universe.</p><p>Randall has broken the gender barrier in three of the most prominent physics departments in the US, being the first woman to have a permanent academic job in theoretical physics at Princeton and Harvard Universities and the Massachusetts Institute of Technology. In addition to two <a href=\"http://www.newscientist.com/article/mg19225780.094\">popular science books</a>, she has penned the libretto for a <a href=\"http://www.newscientist.com/blogs/culturelab/2010/03/the-birth-of-hypermusic-sounds-from-another-dimension.html\">science-themed opera</a>.</p>",
+    "firstname": "Lisa",
+    "picture_file": "Lisa-randall.jpg"
+  },
+  {
+    "id": "46565",
+    "lastname": "Salam",
+    "blurb": "<p>The first Muslim to <a href=\"http://www.newscientist.com/article/dn22044\">win a Nobel prize</a>, <a href=\"http://www.newscientist.com/article/mg19926632.100\">Abdus Salam</a> shared the 1979 physics award for showing how weak and electromagnetic interactions between particles unify into a single force at high energies.</p><p>From 1960 to 1974 he served as science adviser to the government of his native Pakistan, until his Ahmadi sect was declared \"non-Muslim\" by Zulfiqar Ali Bhutto, then prime minister.</p><p>Shunned at home – even his gravestone has been defaced – Salam's legacy is the International Center for Theoretical Physics in Trieste, Italy, which he led from 1964 to 1993. It is dedicated to the <a href=\"http://www.newscientist.com/article/mg12517012.200\">promotion of physics and mathematics in the developing world</a>.</p>",
+    "firstname": "Abdus",
+    "picture_file": "Abdus_salam.gif"
+  },
+  {
+    "id": "8014",
+    "lastname": "Turing",
+    "blurb": "<p>\"Father of computer science, mathematician, logician, wartime codebreaker, victim of prejudice.\" The sweeping biographical epigram on the memorial statue of <a href=\"http://www.newscientist.com/special/alan-turing\">Alan Turing</a> in Manchester, UK, documents his pivotal position in 20th-century history.</p><p>His namesake <a href=\"http://www.newscientist.com/article/dn20905\">Turing test</a> is the most famous benchmark of artificial intelligence. He proposed in the 1950s that a human's response is the best way to judge whether a computer has become able to think: if a person talking to a machine believes the machine is another person, it passes.</p><p>Turing's leading role in breaking the German Enigma code arguably altered the trajectory of the Second World War, and his construction of some of the earliest computers spawned an industry that has transformed society.</p><p>Sadly for him, other societal changes came too late. Convicted in 1952 for gross indecency after acknowledging a homosexual relationship, Turing was stripped of his state security clearance and required to undergo hormonal treatment. His death two years later was ruled a suicide. The British government <a href=\"http://www.newscientist.com/article/mg20327256.200\">apologised for Turing's prosecution</a> in 2009; a Royal pardon came in 2013.</p>",
+    "firstname": "Alan",
+    "picture_file": "Alan_Turing_photo.jpg"
+  },
+  {
+    "id": "105655",
+    "lastname": "Weinberg",
+    "blurb": "<p>In any list of the world's leading living theoretical physicists, <a href=\"http://www.newscientist.com/article/mg21228363.600\">Steven Weinberg</a> is sure to vie for the top spot. Best known for his contributions to electroweak theory, which unified two of the four fundamental forces and completed the standard model of particle physics, Weinberg shared the 1979 physics Nobel with Abdus Salam and Sheldon Glashow. </p><p>His textbooks on quantum field theory, gravitation and cosmology have influenced a generation of physicists, and his <a href=\"http://www.newscientist.com/article/mg20527461.700\">popular books</a> <i>The First Three Minutes</i> and <i>Dreams of a Final Theory</i> have illuminated the discipline for the uninitiated. An outspoken atheist, he memorably stated: \"With or without religion, good people can behave well and bad people can do evil; but for good people to do evil – that takes religion.\"</p>",
+    "firstname": "Steven",
+    "picture_file": "Steven_weinberg.jpg"
+  },
+  {
+    "id": "94768",
+    "lastname": "Wilczek",
+    "blurb": "<p>Talk about a glorious debut. In 1973, <a href=\"http://www.newscientist.com/article/mg21729062.100\">Frank Wilczek</a> published his first scientific paper – and later <a href=\"http://www.newscientist.com/article/dn6491\">it earned him a Nobel prize</a>. The paper explained the behavior of quarks at very small distances, acting under the influence of the strong force. It showed that the strong force is like a rubber band: as objects under its influence approach each other, it becomes weaker. The opposite is true for the other fundamental forces of nature.</p><p>In 2004, Wilczek shared the physics Nobel with his co-author David Gross and also with David Politzer, who developed the same ideas independently.</p><p>Wilczek has continued to <a href=\"http://www.newscientist.com/article/mg16221814.300\">uncover surprising features of the universe</a>. His recent idea, a <a href=\"http://www.newscientist.com/article/dn22028\">perpetually rotating \"time crystal\"</a>, is as controversial as it is unusual.</p>",
+    "firstname": "Frank",
+    "picture_file": "Frank_Wilczek.jpg"
+  }
+]

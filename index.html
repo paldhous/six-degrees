@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="css/jquery.dropdown.min.css" />
+    <link href="css/degrees.css" rel="stylesheet" type="text/css" />
+	<link href="css/jquery-ui-1.10.3.custom.css" rel="stylesheet">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+    <title>Six Degrees Of Stephen Hawking</title>
+
+ 	<script src="src/d3.v3.min.js"></script>
+	<script type="text/javascript" src="src/jquery-1.10.2.min.js"></script>
+	<script src="src/spin.min.js"></script>
+	<script type="text/javascript" src="src/jquery-ui-1.10.3.custom.min.js"></script>
+	<script type="text/javascript" src="src/jquery.dropdown.min.js"></script>
+	
+
+</head>
+
+<body>
+    
+	<div id="header">
+		<div class="share">
+			<!-- AddToAny BEGIN -->
+			<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+			<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+			<a class="a2a_button_facebook"></a>
+			<a class="a2a_button_twitter"></a>
+			<a class="a2a_button_linkedin"></a>
+			</div>
+			<script async src="https://static.addtoany.com/menu/page.js"></script>
+			<!-- AddToAny END -->
+		</div>
+	</div>
+
+	<div id="content" class="container">
+		
+		<div>
+		<!-- <div id="intro"> -->
+
+			<h1>Six Degrees Of Stephen Hawking</h1>
+		
+			<h2>You probably know how to play the <a href="http://oracleofbacon.org/help.php">Kevin Bacon game</a>: the goal is to connect Kevin to any other actor via the fewest shared movies. This is the scientific version, published as a tribute to the late Stephen Hawking, with him in the leading role.</h2>
+
+			<p>Each circle is a mathematician or physicist, and the arrows point from supervisor to PhD student – in this network, the degrees really are degrees. Our featured scientists appear as larger orange circles; other notables are highlighted by orange colour alone.</p>
+
+			<p>Select featured scientists using the drop-down menu; find others using the search box. Clicking a scientist will place them at the centre of the displayed network, and show two degrees up and down their academic family tree. Then find your way back to Hawking, following the most intense colour for the shortest path. </p>
+
+		</div>
+
+			
+		<div id="main">	
+
+			<div id="menus">
+				<!-- <div id="div-autocomplete"> -->
+				<!-- <strong><label for="autocomplete">Find:</label></strong> -->
+				<input id="autocomplete" value="Find scientist" title="Start typing the name of a physicist, mathematician, or other famous historical figure">
+				<!-- </div> -->
+				<!-- <form id="menu"> -->
+					<!-- <form> -->
+					<!-- <strong><label for="menu">Featured:</label></strong> -->
+				<!-- </form> -->
+				<span id="menu" data-jq-dropdown="#jq-dropdown-1" data-vertical-offset="13">
+					Featured Scientists &nbsp;&nbsp;&nbsp;<span id="triangle">&#9660;</span>
+					<hr id="dropdown-rule">
+				</span>
+				<!-- <hr id="dropdown-rule"> -->
+			</div>	
+
+			<div id="viz">
+			</div>
+		
+			<div id="panel">
+			<hr id="box-rule">					
+				<script type="text/javascript" src="src/force_directed.js"></script>					
+			</div>
+			
+		</div>
+
+	</div>
+
+
+
+	<div id="jq-dropdown-1" class="jq-dropdown">
+	    <ul class="jq-dropdown-menu">
+	    </ul>
+	</div>
+</body>
+
+</html>
+
